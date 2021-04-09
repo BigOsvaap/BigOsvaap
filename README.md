@@ -14,12 +14,12 @@ I develop native Android applications 💻📱. I'm currently learning Jetpack C
 
 ## Skills:
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-0095D5?style=for-the-badge&logo=java&logoColor=white)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/BigOsvaap)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/BigOsvaap)
+[![Java](https://img.shields.io/badge/Java-0095D5?style=for-the-badge&logo=java&logoColor=white)](https://github.com/BigOsvaap)
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/BigOsvaap)
 </br>
-[![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white)]()
+![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📫 How to reach me
 
