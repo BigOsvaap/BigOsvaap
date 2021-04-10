@@ -19,7 +19,7 @@ I develop native Android applications 💻📱. I'm currently learning Jetpack C
 [![Java](https://img.shields.io/badge/Java-0095D5?style=for-the-badge&logo=java&logoColor=white)](https://github.com/BigOsvaap)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/BigOsvaap)
 </br>
-![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=python&logoColor=white)](https://github.com/BigOsvaap)
 
 ## 📫 How to reach me
 
